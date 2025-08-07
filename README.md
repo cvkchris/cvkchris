@@ -154,6 +154,6 @@ I'm passionate about:
 
 ---
 
-### 📣 *"Coding an artful instruction and outcome is the painting."*
+### 📣 *"Coding is an artful instruction and outcome is the painting."*
 
 
